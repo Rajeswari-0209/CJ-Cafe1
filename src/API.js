@@ -6,7 +6,7 @@ var baseURL;
 // } else {
 //     baseURL = "http://127.0.0.1:8000";
 // }
-baseURL = "https://cj-cafe-bc.herokuapp.com/";
+baseURL = "https://cj-cafe1.rajeshwari2.repl.co";
 
 const api = axios.create({
   baseURL: baseURL,
